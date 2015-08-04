@@ -1,2 +1,2 @@
 # SCEP
-manage SCEP Exclusions without SCCM but with PowerShell.
+Script to manage SCEP Exclusions without SCCM but with PowerShell.
